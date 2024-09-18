@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bob! rdb-droid
-- 👀 I’m interested in learning HTML, CSS, Python, web design, 
+- 👀 I’m interested in learning HTML, CSS, Python, web design, etc.. 
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
